@@ -18,7 +18,7 @@ test('get started link', async ({ page }) => {
 });
 
  
-test('get started link new', async ({ page }) => {
+test('get started link new 1', async ({ page }) => {
   await page.goto('https://playwright.dev/');
 
   // Click the get started link.
